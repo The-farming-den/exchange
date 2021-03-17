@@ -11,9 +11,9 @@
   "keywords": ["pancake", "default"],
   "tokens": [
     {
-      "name": "Goose Golden Egg",
-      "symbol": "EGG",
-      "address": "0xF952Fc3ca7325Cc27D15885d37117676d25BfdA6",
+      "name": "The Farming Token",
+      "symbol": "TFT",
+      "address": "0x3aFB010A93F414F12A43A4eB3D0eE0B5bbdA48D3",
       "chainId": 56,
       "decimals": 18
     },
